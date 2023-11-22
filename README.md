@@ -22,3 +22,6 @@ This is a simple Rock-Paper-Scissors game coded in JavaScript for web browsers. 
 - Your score is saved locally, so you can close the browser and come back to continue playing.
 
 Enjoy playing the classic Rock-Paper-Scissors game!
+
+## game screenshot 
+![Screen Shot 2023-11-21 at 11 42 20 PM](https://github.com/diwassapkota805/rock-paper-sissors/assets/102276270/d6d3b591-d85e-48c8-b12e-b61f538d2b79)
